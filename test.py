@@ -1,3 +1,4 @@
 a = 4
 b = 5
-print('Result: ',a+b)
+c = 1
+print('Result: ',a+b+c)
